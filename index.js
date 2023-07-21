@@ -79,8 +79,7 @@ document.querySelector("#resume-link-1").addEventListener("click", () => {
     "_blank"
   );
   window.open(
-    "https://drive.google.com/file/d/1IhPcb_wWR4G5XO6paedFdGLFwcqy8WE9/view?usp=sharing",
-    "_blank"
+    "https://drive.google.com/file/d/1IhPcb_wWR4G5XO6paedFdGLFwcqy8WE9/view?usp=drive_link"
   );
 });
 
