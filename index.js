@@ -79,7 +79,7 @@ document.querySelector("#resume-link-1").addEventListener("click", () => {
   //   "_blank"
   // );
   window.open(
-    "https://drive.google.com/drive/u/0/folders/1GJkpMo7bfV_io1f3zqhBGl-1uCZqsiyU",
+    "https://drive.google.com/file/d/13pfSRtu0X0MXg5HhpfFxW3L5rnsKEdAk/view?usp=sharing",
     "_blank",
   );
 });
@@ -91,7 +91,7 @@ document.querySelector("#resume-link-2").addEventListener("click", () => {
   //   "_blank"
   // );
   window.open(
-    "https://drive.google.com/drive/u/0/folders/1GJkpMo7bfV_io1f3zqhBGl-1uCZqsiyU",
+    "https://drive.google.com/file/d/13pfSRtu0X0MXg5HhpfFxW3L5rnsKEdAk/view?usp=sharing",
     "_blank",
   );
 });
